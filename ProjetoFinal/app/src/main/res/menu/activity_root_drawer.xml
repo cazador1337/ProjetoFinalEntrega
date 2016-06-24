@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/filter">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item
+                    android:id="@+id/filter_watching"
+                    android:icon="@android:drawable/ic_menu_view"
+                    android:title="@string/filter_watching"
+                    app:actionViewClass="android.support.v7.widget.AppCompatRadioButton"
+                    app:showAsAction="collapseActionView|always"/>
+                <item
+                    android:id="@+id/filter_complete"
+                    android:icon="@android:drawable/ic_menu_view"
+                    android:title="@string/filter_complete"
+                    app:actionViewClass="android.support.v7.widget.AppCompatRadioButton"
+                    app:showAsAction="collapseActionView|always"/>
+                <item
+                    android:id="@+id/filter_plan"
+                    android:icon="@android:drawable/ic_menu_view"
+                    android:title="@string/filter_plan"
+                    app:actionViewClass="android.support.v7.widget.AppCompatRadioButton"
+                    app:showAsAction="collapseActionView|always"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

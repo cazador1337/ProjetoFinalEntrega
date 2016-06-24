@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">My Series</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_new">Novo</string>
+    <string name="title_search">Buscar</string>
+    <string name="filter">Filtros</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_watching">Assistindo</string>
+    <string name="filter_complete">Finalizados</string>
+    <string name="filter_plan">Plano de Assistir</string>
+    <string name="form_title">Título</string>
+    <string name="form_genres">Genêros</string>
+    <string name="form_eps">Número de Episódios</string>
+    <string name="form_watching">Assistindo</string>
+    <string name="form_plan_to_watch">Plano de Assistir</string>
+    <string name="form_complete">Completo</string>
+    <string name="form_score_title">Nota:</string>
+    <string name="form_coments">Comentários</string>
+
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Biography</item>
+        <item>Cars</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Dementia</item>
+        <item>Demons</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Ecchi</item>
+        <item>Fantasy</item>
+        <item>Family</item>
+        <item>Game</item>
+        <item>Harem</item>
+        <item>Hentai</item>
+        <item>Historical</item>
+        <item>Horror</item>
+        <item>Josei</item>
+        <item>Kids</item>
+        <item>Magic</item>
+        <item>Martial Arts</item>
+        <item>Mecha</item>
+        <item>Military</item>
+        <item>Music</item>
+        <item>Mystery</item>
+        <item>Parody</item>
+        <item>Police</item>
+        <item>Psychological</item>
+        <item>Romance</item>
+        <item>Samurai</item>
+        <item>School</item>
+        <item>Sci-Fi</item>
+        <item>Seinen</item>
+        <item>Shoujo</item>
+        <item>Shounen</item>
+        <item>Slice of Life</item>
+        <item>Space</item>
+        <item>Sports</item>
+        <item>Super Power</item>
+        <item>Supernatural</item>
+        <item>Thriller</item>
+        <item>Vampire</item>
+        <item>Yaoi</item>
+        <item>Yuri</item>
+        <item>Live Action</item>
+        <item>Adult</item>
+        <item>Alien</item>
+        <item>School Life</item>
+        <item>Tragedy</item>
+    </string-array>
+</resources>
